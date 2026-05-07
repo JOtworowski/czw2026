@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "World! idsiofs" << endl;
+    cout << "Hello" << endl;
+    cout << "World!" << endl;
     return 0;
 }
